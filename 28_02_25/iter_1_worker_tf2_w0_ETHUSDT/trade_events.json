@@ -1,0 +1,177 @@
+[
+  {
+    "type": "open",
+    "timestamp": "2025-01-29 13:46:00",
+    "price_abs": 3099.01,
+    "price_percent_diff_rollover": 0.0,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": -1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-01-29 17:24:00",
+    "price_abs": 3117.5,
+    "price_percent_diff_rollover": 0.5966421534619049,
+    "price_percent_diff_entry": -0.596680645843621,
+    "PnL_absdiff_abs_abspct": [
+      -1.790041937530863,
+      -0.596680645843621
+    ],
+    "held_for_candles": 109,
+    "position": -1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-01-29 17:26:00",
+    "price_abs": 3121.49,
+    "price_percent_diff_rollover": 0.7253929480704987,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": -1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-01-29 19:40:00",
+    "price_abs": 3147.7,
+    "price_percent_diff_rollover": 1.5711469146598298,
+    "price_percent_diff_entry": -0.8397012326786998,
+    "PnL_absdiff_abs_abspct": [
+      -2.519103698036099,
+      -0.8397012326786998
+    ],
+    "held_for_candles": 67,
+    "position": -1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-01-29 19:42:00",
+    "price_abs": 3114.92,
+    "price_percent_diff_rollover": 0.513389759955594,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": -1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-01-29 19:44:00",
+    "price_abs": 3148.0,
+    "price_percent_diff_rollover": 1.5808274255326629,
+    "price_percent_diff_entry": -1.0620236600005417,
+    "PnL_absdiff_abs_abspct": [
+      -3.186070980001625,
+      -1.0620236600005417
+    ],
+    "held_for_candles": 1,
+    "position": -1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-01-29 19:46:00",
+    "price_abs": 3146.31,
+    "price_percent_diff_rollover": 1.5262938809490683,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": -1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-01-29 20:26:00",
+    "price_abs": 3165.71,
+    "price_percent_diff_rollover": 2.152300250725226,
+    "price_percent_diff_entry": -0.6166332194284582,
+    "PnL_absdiff_abs_abspct": [
+      -1.8498996582853744,
+      -0.6166332194284582
+    ],
+    "held_for_candles": 20,
+    "position": -1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-01-29 20:28:00",
+    "price_abs": 3160.84,
+    "price_percent_diff_rollover": 1.9951532908896688,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": -1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-01-30 03:50:00",
+    "price_abs": 3178.93,
+    "price_percent_diff_rollover": 2.5788880965211347,
+    "price_percent_diff_entry": -0.5723539682896598,
+    "PnL_absdiff_abs_abspct": [
+      -1.7170619048689792,
+      -0.5723539682896598
+    ],
+    "held_for_candles": 221,
+    "position": -1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-01-30 03:52:00",
+    "price_abs": 3197.66,
+    "price_percent_diff_rollover": 3.1832746586813085,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": -1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-01-30 04:00:00",
+    "price_abs": 3214.46,
+    "price_percent_diff_rollover": 3.7253832675596334,
+    "price_percent_diff_entry": -0.5254215184960329,
+    "PnL_absdiff_abs_abspct": [
+      -1.5762645554880985,
+      -0.5254215184960329
+    ],
+    "held_for_candles": 4,
+    "position": -1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-01-30 04:02:00",
+    "price_abs": 3208.51,
+    "price_percent_diff_rollover": 3.533386468581902,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": -1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-01-30 06:26:00",
+    "price_abs": 3196.7,
+    "price_percent_diff_rollover": 3.1522970238882606,
+    "price_percent_diff_entry": 0.3680460888910596,
+    "PnL_absdiff_abs_abspct": [
+      1.104138266673179,
+      0.3680460888910596
+    ],
+    "held_for_candles": 72,
+    "position": -1,
+    "asset": "ETHUSDT"
+  }
+]

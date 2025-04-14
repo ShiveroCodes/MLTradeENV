@@ -1,0 +1,1946 @@
+[
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 07:12:00",
+    "price_abs": 2719.22,
+    "price_percent_diff_rollover": 0.0,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 07:14:00",
+    "price_abs": 2716.79,
+    "price_percent_diff_rollover": -0.0893638616956273,
+    "price_percent_diff_entry": -0.08940803146951486,
+    "PnL_absdiff_abs_abspct": [
+      -0.26822409440854456,
+      -0.08940803146951486
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -1.000894080314695
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 07:16:00",
+    "price_abs": 2730.57,
+    "price_percent_diff_rollover": 0.4173991070969015,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 07:20:00",
+    "price_abs": 2722.99,
+    "price_percent_diff_rollover": 0.13864269900927406,
+    "price_percent_diff_entry": -0.2776417868959959,
+    "PnL_absdiff_abs_abspct": [
+      -0.8329253606879876,
+      -0.2776417868959959
+    ],
+    "held_for_candles": 2,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.2739356000636281,
+    "reward_signal": -3.706186832367786e-05
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 07:22:00",
+    "price_abs": 2715.51,
+    "price_percent_diff_rollover": -0.13643618390566348,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 07:26:00",
+    "price_abs": 2711.17,
+    "price_percent_diff_rollover": -0.2960407763991044,
+    "price_percent_diff_entry": -0.15986690974962442,
+    "PnL_absdiff_abs_abspct": [
+      -0.47960072924887326,
+      -0.15986690974962442
+    ],
+    "held_for_candles": 2,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.08801297216633264,
+    "reward_signal": -0.0007185393758329179
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 07:28:00",
+    "price_abs": 2708.78,
+    "price_percent_diff_rollover": -0.38393362802566916,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 07:32:00",
+    "price_abs": 2707.09,
+    "price_percent_diff_rollover": -0.44608380344362186,
+    "price_percent_diff_entry": -0.06243403853926747,
+    "PnL_absdiff_abs_abspct": [
+      -0.1873021156178024,
+      -0.06243403853926747
+    ],
+    "held_for_candles": 2,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.06681977877035225,
+    "reward_signal": 4.385740231084782e-05
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 07:34:00",
+    "price_abs": 2705.28,
+    "price_percent_diff_rollover": -0.5126470090687624,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 07:40:00",
+    "price_abs": 2701.39,
+    "price_percent_diff_rollover": -0.655702738285241,
+    "price_percent_diff_entry": -0.14383730068605158,
+    "PnL_absdiff_abs_abspct": [
+      -0.43151190205815476,
+      -0.14383730068605158
+    ],
+    "held_for_candles": 3,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -0.0014383730068605158
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 07:42:00",
+    "price_abs": 2703.55,
+    "price_percent_diff_rollover": -0.5762681945557777,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 07:44:00",
+    "price_abs": 2691.77,
+    "price_percent_diff_rollover": -1.0094806598951103,
+    "price_percent_diff_entry": -0.4357679810457841,
+    "PnL_absdiff_abs_abspct": [
+      -1.3073039431373523,
+      -0.4357679810457841
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -1.0043576798104579
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 07:46:00",
+    "price_abs": 2692.15,
+    "price_percent_diff_rollover": -0.995506064238999,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 07:52:00",
+    "price_abs": 2690.7,
+    "price_percent_diff_rollover": -1.0488301792425763,
+    "price_percent_diff_entry": -0.053904895591707094,
+    "PnL_absdiff_abs_abspct": [
+      -0.1617146867751213,
+      -0.053904895591707094
+    ],
+    "held_for_candles": 3,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.057946277009394836,
+    "reward_signal": 4.041381417687742e-05
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 07:54:00",
+    "price_abs": 2689.14,
+    "price_percent_diff_rollover": -1.1061995719360673,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 08:36:00",
+    "price_abs": 2688.83,
+    "price_percent_diff_rollover": -1.1175998999713106,
+    "price_percent_diff_entry": -0.011572478128698502,
+    "PnL_absdiff_abs_abspct": [
+      -0.03471743438609551,
+      -0.011572478128698502
+    ],
+    "held_for_candles": 21,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -0.00011572478128698502
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 08:38:00",
+    "price_abs": 2692.75,
+    "price_percent_diff_rollover": -0.9734409132030436,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 08:42:00",
+    "price_abs": 2681.48,
+    "price_percent_diff_rollover": -1.387898000161803,
+    "price_percent_diff_entry": -0.4185759927020121,
+    "PnL_absdiff_abs_abspct": [
+      -1.2557279781060364,
+      -0.4185759927020121
+    ],
+    "held_for_candles": 2,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.0698171328736536,
+    "reward_signal": -0.0034875885982835852
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 08:44:00",
+    "price_abs": 2679.6,
+    "price_percent_diff_rollover": -1.4570354734078115,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 08:46:00",
+    "price_abs": 2677.55,
+    "price_percent_diff_rollover": -1.5324247394473276,
+    "price_percent_diff_entry": -0.07654877290454089,
+    "PnL_absdiff_abs_abspct": [
+      -0.22964631871362268,
+      -0.07654877290454089
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -1.0007654877290455
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 08:48:00",
+    "price_abs": 2685.52,
+    "price_percent_diff_rollover": -1.2393259831863483,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 09:52:00",
+    "price_abs": 2698.67,
+    "price_percent_diff_rollover": -0.7557314229815804,
+    "price_percent_diff_entry": 0.48961861566195314,
+    "PnL_absdiff_abs_abspct": [
+      1.4688558469858592,
+      0.48961861566195314
+    ],
+    "held_for_candles": 32,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.006330247967963609,
+    "reward_signal": 0.004959488636299168
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 09:54:00",
+    "price_abs": 2698.5,
+    "price_percent_diff_rollover": -0.7619832157751046,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 09:56:00",
+    "price_abs": 2692.18,
+    "price_percent_diff_rollover": -0.9944028066872106,
+    "price_percent_diff_entry": -0.23424876105421744,
+    "PnL_absdiff_abs_abspct": [
+      -0.7027462831626523,
+      -0.23424876105421744
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -1.0023424876105422
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 09:58:00",
+    "price_abs": 2693.47,
+    "price_percent_diff_rollover": -0.9469627319599003,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 11:20:00",
+    "price_abs": 2769.99,
+    "price_percent_diff_rollover": 1.8670795301593834,
+    "price_percent_diff_entry": 2.840901630594666,
+    "PnL_absdiff_abs_abspct": [
+      8.522704891783997,
+      2.840901630594666
+    ],
+    "held_for_candles": 41,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.030072744129689966,
+    "reward_signal": 0.028709743747243558
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 11:22:00",
+    "price_abs": 2769.18,
+    "price_percent_diff_rollover": 1.837291576260841,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 11:32:00",
+    "price_abs": 2765.9,
+    "price_percent_diff_rollover": 1.7166687505976088,
+    "price_percent_diff_entry": -0.11849000148219639,
+    "PnL_absdiff_abs_abspct": [
+      -0.3554700044465892,
+      -0.11849000148219639
+    ],
+    "held_for_candles": 5,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -0.001184900014821964
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 11:34:00",
+    "price_abs": 2768.21,
+    "price_percent_diff_rollover": 1.8016195820860483,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 11:38:00",
+    "price_abs": 2767.2,
+    "price_percent_diff_rollover": 1.764476577842176,
+    "price_percent_diff_entry": -0.036529036380479656,
+    "PnL_absdiff_abs_abspct": [
+      -0.10958710914143897,
+      -0.036529036380479656
+    ],
+    "held_for_candles": 2,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.010476088368221337,
+    "reward_signal": -0.0002605294801225832
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 11:40:00",
+    "price_abs": 2766.91,
+    "price_percent_diff_rollover": 1.7538117548414638,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 11:50:00",
+    "price_abs": 2766.44,
+    "price_percent_diff_rollover": 1.7365273865299704,
+    "price_percent_diff_entry": -0.01702983486531634,
+    "PnL_absdiff_abs_abspct": [
+      -0.05108950459594902,
+      -0.01702983486531634
+    ],
+    "held_for_candles": 5,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.02674464731888005,
+    "reward_signal": 9.71481245356371e-05
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 11:52:00",
+    "price_abs": 2765.7,
+    "price_percent_diff_rollover": 1.709313700252279,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 11:54:00",
+    "price_abs": 2759.99,
+    "price_percent_diff_rollover": 1.4993270128934026,
+    "price_percent_diff_entry": -0.2065011564022753,
+    "PnL_absdiff_abs_abspct": [
+      -0.6195034692068259,
+      -0.2065011564022753
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -1.0020650115640228
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 11:56:00",
+    "price_abs": 2761.01,
+    "price_percent_diff_rollover": 1.5368377696545488,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 11:58:00",
+    "price_abs": 2756.68,
+    "price_percent_diff_rollover": 1.3776009296783651,
+    "price_percent_diff_entry": -0.15687019912555158,
+    "PnL_absdiff_abs_abspct": [
+      -0.4706105973766548,
+      -0.15687019912555158
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -1.0015687019912556
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 12:00:00",
+    "price_abs": 2758.13,
+    "price_percent_diff_rollover": 1.4309250446819421,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 12:40:00",
+    "price_abs": 2796.3,
+    "price_percent_diff_rollover": 2.8346364030861935,
+    "price_percent_diff_entry": 1.3838657489029447,
+    "PnL_absdiff_abs_abspct": [
+      4.151597246708834,
+      1.3838657489029447
+    ],
+    "held_for_candles": 20,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.08955346725599855,
+    "reward_signal": 0.014734192161589433
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 12:42:00",
+    "price_abs": 2793.83,
+    "price_percent_diff_rollover": 2.7438015313214867,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 12:44:00",
+    "price_abs": 2786.7,
+    "price_percent_diff_rollover": 2.4815939865108385,
+    "price_percent_diff_entry": -0.2552482817601039,
+    "PnL_absdiff_abs_abspct": [
+      -0.7657448452803117,
+      -0.2552482817601039
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -1.0025524828176011
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 12:46:00",
+    "price_abs": 2789.88,
+    "price_percent_diff_rollover": 2.598539287001431,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 13:52:00",
+    "price_abs": 2807.38,
+    "price_percent_diff_rollover": 3.242106192216897,
+    "price_percent_diff_entry": 0.6272243781196363,
+    "PnL_absdiff_abs_abspct": [
+      1.8816731343589088,
+      0.6272243781196363
+    ],
+    "held_for_candles": 33,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": 0.006272243781196363
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 13:54:00",
+    "price_abs": 2809.96,
+    "price_percent_diff_rollover": 3.3369863416715178,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 13:56:00",
+    "price_abs": 2792.98,
+    "price_percent_diff_rollover": 2.7125425673538817,
+    "price_percent_diff_entry": -0.6043220293325731,
+    "PnL_absdiff_abs_abspct": [
+      -1.812966087997719,
+      -0.6043220293325731
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -1.0060432202933258
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 13:58:00",
+    "price_abs": 2794.68,
+    "price_percent_diff_rollover": 2.775060495289092,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 14:10:00",
+    "price_abs": 2777.01,
+    "price_percent_diff_rollover": 2.125241797280118,
+    "price_percent_diff_entry": -0.6323159587340978,
+    "PnL_absdiff_abs_abspct": [
+      -1.8969478762022938,
+      -0.6323159587340978
+    ],
+    "held_for_candles": 6,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.020395903929121828,
+    "reward_signal": -0.00611920054804976
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 14:12:00",
+    "price_abs": 2776.44,
+    "price_percent_diff_rollover": 2.104279903795951,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 14:46:00",
+    "price_abs": 2811.12,
+    "price_percent_diff_rollover": 3.3796456336743663,
+    "price_percent_diff_entry": 1.2490388700661168,
+    "PnL_absdiff_abs_abspct": [
+      3.74711661019835,
+      1.2490388700661168
+    ],
+    "held_for_candles": 17,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": 0.012490388700661168
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 14:48:00",
+    "price_abs": 2818.14,
+    "price_percent_diff_rollover": 3.6378079007950843,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 14:50:00",
+    "price_abs": 2816.99,
+    "price_percent_diff_rollover": 3.595516361309493,
+    "price_percent_diff_entry": -0.040849655797252235,
+    "PnL_absdiff_abs_abspct": [
+      -0.1225489673917567,
+      -0.040849655797252235
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -1.0004084965579725
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 14:52:00",
+    "price_abs": 2825.56,
+    "price_percent_diff_rollover": 3.9106802686064444,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 14:56:00",
+    "price_abs": 2816.85,
+    "price_percent_diff_rollover": 3.590367826067774,
+    "price_percent_diff_entry": -0.3083000789410862,
+    "PnL_absdiff_abs_abspct": [
+      -0.9249002368232586,
+      -0.3083000789410862
+    ],
+    "held_for_candles": 2,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -0.003083000789410862
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 14:58:00",
+    "price_abs": 2817.11,
+    "price_percent_diff_rollover": 3.599929391516697,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 15:00:00",
+    "price_abs": 2809.72,
+    "price_percent_diff_rollover": 3.3281602812571256,
+    "price_percent_diff_entry": -0.2623682836732222,
+    "PnL_absdiff_abs_abspct": [
+      -0.7871048510196665,
+      -0.2623682836732222
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.4181592151380854,
+    "reward_signal": -0.9984420906853514
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 15:02:00",
+    "price_abs": 2797.94,
+    "price_percent_diff_rollover": 2.8949478159178095,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 15:12:00",
+    "price_abs": 2775.37,
+    "price_percent_diff_rollover": 2.064930384448485,
+    "price_percent_diff_entry": -0.8067081409429439,
+    "PnL_absdiff_abs_abspct": [
+      -2.4201244228288314,
+      -0.8067081409429439
+    ],
+    "held_for_candles": 5,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -0.008067081409429439
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 15:14:00",
+    "price_abs": 2780.91,
+    "price_percent_diff_rollover": 2.268665279013837,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 15:16:00",
+    "price_abs": 2738.98,
+    "price_percent_diff_rollover": 0.726678974117586,
+    "price_percent_diff_entry": -1.5078236393965314,
+    "PnL_absdiff_abs_abspct": [
+      -4.523470918189594,
+      -1.5078236393965314
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -1.0150782363939652
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 15:18:00",
+    "price_abs": 2754.54,
+    "price_percent_diff_rollover": 1.29890189098345,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 15:52:00",
+    "price_abs": 2790.41,
+    "price_percent_diff_rollover": 2.6180301704165188,
+    "price_percent_diff_entry": 1.3021707953302555,
+    "PnL_absdiff_abs_abspct": [
+      3.9065123859907667,
+      1.3021707953302555
+    ],
+    "held_for_candles": 17,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.31947271586402815,
+    "reward_signal": 0.016216435111942835
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 15:54:00",
+    "price_abs": 2781.61,
+    "price_percent_diff_rollover": 2.2944079552224657,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 15:56:00",
+    "price_abs": 2778.93,
+    "price_percent_diff_rollover": 2.1958502805951725,
+    "price_percent_diff_entry": -0.0963902616571069,
+    "PnL_absdiff_abs_abspct": [
+      -0.2891707849713207,
+      -0.0963902616571069
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.11935538902808537,
+    "reward_signal": -0.9997703487262902
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 15:58:00",
+    "price_abs": 2775.61,
+    "price_percent_diff_rollover": 2.073756444862877,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 16:40:00",
+    "price_abs": 2774.35,
+    "price_percent_diff_rollover": 2.0274196276873555,
+    "price_percent_diff_entry": -0.04543867996558374,
+    "PnL_absdiff_abs_abspct": [
+      -0.13631603989675123,
+      -0.04543867996558374
+    ],
+    "held_for_candles": 21,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -0.0004543867996558374
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 16:42:00",
+    "price_abs": 2775.48,
+    "price_percent_diff_rollover": 2.0689756621384157,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 17:18:00",
+    "price_abs": 2821.28,
+    "price_percent_diff_rollover": 3.753282191216614,
+    "price_percent_diff_entry": 1.6501224826163279,
+    "PnL_absdiff_abs_abspct": [
+      4.950367447848984,
+      1.6501224826163279
+    ],
+    "held_for_candles": 18,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.19456102237727557,
+    "reward_signal": 0.018446835049936036
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 17:20:00",
+    "price_abs": 2815.88,
+    "price_percent_diff_rollover": 3.554695831892981,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 17:22:00",
+    "price_abs": 2814.03,
+    "price_percent_diff_rollover": 3.486661616198778,
+    "price_percent_diff_entry": -0.06574146586161621,
+    "PnL_absdiff_abs_abspct": [
+      -0.19722439758484864,
+      -0.06574146586161621
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.21378761077644276,
+    "reward_signal": -0.9985195385508517
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 17:24:00",
+    "price_abs": 2808.01,
+    "price_percent_diff_rollover": 3.2652746008046583,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 17:26:00",
+    "price_abs": 2802.0,
+    "price_percent_diff_rollover": 3.0442553379277957,
+    "price_percent_diff_entry": -0.2140734033666554,
+    "PnL_absdiff_abs_abspct": [
+      -0.6422202100999662,
+      -0.2140734033666554
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.37571107456900976,
+    "reward_signal": -0.9983836232879765
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 17:28:00",
+    "price_abs": 2791.45,
+    "price_percent_diff_rollover": 2.6562764322121795,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 19:20:00",
+    "price_abs": 2848.61,
+    "price_percent_diff_rollover": 4.758349820904536,
+    "price_percent_diff_entry": 2.047639186770767,
+    "PnL_absdiff_abs_abspct": [
+      6.142917560312301,
+      2.047639186770767
+    ],
+    "held_for_candles": 56,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.09349983264646156,
+    "reward_signal": 0.021411390194172285
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 19:22:00",
+    "price_abs": 2846.0,
+    "price_percent_diff_rollover": 4.662366413898111,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 19:26:00",
+    "price_abs": 2840.8,
+    "price_percent_diff_rollover": 4.471135104919807,
+    "price_percent_diff_entry": -0.18275482068039936,
+    "PnL_absdiff_abs_abspct": [
+      -0.548264462041198,
+      -0.18275482068039936
+    ],
+    "held_for_candles": 2,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -0.0018275482068039937
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 19:28:00",
+    "price_abs": 2845.21,
+    "price_percent_diff_rollover": 4.6333139650341,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 19:30:00",
+    "price_abs": 2842.67,
+    "price_percent_diff_rollover": 4.539904825648542,
+    "price_percent_diff_entry": -0.08931506188405607,
+    "PnL_absdiff_abs_abspct": [
+      -0.2679451856521682,
+      -0.08931506188405607
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -1.0008931506188405
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 19:32:00",
+    "price_abs": 2847.5,
+    "price_percent_diff_rollover": 4.717529291488008,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 19:36:00",
+    "price_abs": 2843.79,
+    "price_percent_diff_rollover": 4.581093107582328,
+    "price_percent_diff_entry": -0.130331925040087,
+    "PnL_absdiff_abs_abspct": [
+      -0.390995775120261,
+      -0.130331925040087
+    ],
+    "held_for_candles": 2,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.3680422983113406,
+    "reward_signal": 0.0023771037327125362
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 19:38:00",
+    "price_abs": 2833.31,
+    "price_percent_diff_rollover": 4.19568846948758,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 19:40:00",
+    "price_abs": 2824.78,
+    "price_percent_diff_rollover": 3.881995572259707,
+    "price_percent_diff_entry": -0.3011037840421547,
+    "PnL_absdiff_abs_abspct": [
+      -0.9033113521264642,
+      -0.3011037840421547
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -1.0030110378404216
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 19:42:00",
+    "price_abs": 2831.54,
+    "price_percent_diff_rollover": 4.130596273931501,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 19:46:00",
+    "price_abs": 2801.47,
+    "price_percent_diff_rollover": 3.0247644545126913,
+    "price_percent_diff_entry": -1.0620091144882582,
+    "PnL_absdiff_abs_abspct": [
+      -3.1860273434647746,
+      -1.0620091144882582
+    ],
+    "held_for_candles": 2,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -0.010620091144882582
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 19:48:00",
+    "price_abs": 2801.68,
+    "price_percent_diff_rollover": 3.0324872573752786,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 19:50:00",
+    "price_abs": 2793.89,
+    "price_percent_diff_rollover": 2.7460080464250805,
+    "price_percent_diff_entry": -0.27809040810772695,
+    "PnL_absdiff_abs_abspct": [
+      -0.8342712243231808,
+      -0.27809040810772695
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.370492150688241,
+    "reward_signal": -0.9990759825741948
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 19:52:00",
+    "price_abs": 2783.51,
+    "price_percent_diff_rollover": 2.3642809335030055,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 19:58:00",
+    "price_abs": 2768.51,
+    "price_percent_diff_rollover": 1.8126521576040344,
+    "price_percent_diff_entry": -0.5389312954396515,
+    "PnL_absdiff_abs_abspct": [
+      -1.6167938863189544,
+      -0.5389312954396515
+    ],
+    "held_for_candles": 3,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -0.005389312954396514
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 20:00:00",
+    "price_abs": 2790.0,
+    "price_percent_diff_rollover": 2.6029523172086186,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 20:02:00",
+    "price_abs": 2780.3,
+    "price_percent_diff_rollover": 2.246232375460624,
+    "price_percent_diff_entry": -0.3477134117060353,
+    "PnL_absdiff_abs_abspct": [
+      -1.0431402351181058,
+      -0.3477134117060353
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.15698931541334338,
+    "reward_signal": -1.0019072409629268
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 20:04:00",
+    "price_abs": 2775.92,
+    "price_percent_diff_rollover": 2.0851567728981206,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 20:06:00",
+    "price_abs": 2759.3,
+    "price_percent_diff_rollover": 1.4739520892020648,
+    "price_percent_diff_entry": -0.5987639135104763,
+    "PnL_absdiff_abs_abspct": [
+      -1.796291740531429,
+      -0.5987639135104763
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -1.0059876391351048
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 20:08:00",
+    "price_abs": 2774.82,
+    "price_percent_diff_rollover": 2.044703995998866,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 20:10:00",
+    "price_abs": 2750.91,
+    "price_percent_diff_rollover": 1.165407727215895,
+    "price_percent_diff_entry": -0.8617211361458932,
+    "PnL_absdiff_abs_abspct": [
+      -2.5851634084376798,
+      -0.8617211361458932
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.01189266854141513,
+    "reward_signal": -1.0084982846760449
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 20:12:00",
+    "price_abs": 2750.58,
+    "price_percent_diff_rollover": 1.1532718941461202,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 20:16:00",
+    "price_abs": 2748.16,
+    "price_percent_diff_rollover": 1.0642757849677502,
+    "price_percent_diff_entry": -0.08802510949352886,
+    "PnL_absdiff_abs_abspct": [
+      -0.2640753284805866,
+      -0.08802510949352886
+    ],
+    "held_for_candles": 2,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.13597138191792402,
+    "reward_signal": 0.00047946272424395154
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 20:18:00",
+    "price_abs": 2744.42,
+    "price_percent_diff_rollover": 0.9267363435102813,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 20:20:00",
+    "price_abs": 2738.61,
+    "price_percent_diff_rollover": 0.7130721309787486,
+    "price_percent_diff_entry": -0.21174610831494395,
+    "PnL_absdiff_abs_abspct": [
+      -0.6352383249448318,
+      -0.21174610831494395
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.25870687160752043,
+    "reward_signal": -0.9995303923670742
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 20:22:00",
+    "price_abs": 2731.51,
+    "price_percent_diff_rollover": 0.45196784371990567,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 20:24:00",
+    "price_abs": 2725.78,
+    "price_percent_diff_rollover": 0.24124565132649808,
+    "price_percent_diff_entry": -0.20981810509867108,
+    "PnL_absdiff_abs_abspct": [
+      -0.6294543152960133,
+      -0.20981810509867108
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -1.0020981810509868
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 20:26:00",
+    "price_abs": 2733.21,
+    "price_percent_diff_rollover": 0.5144857716551157,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 20:32:00",
+    "price_abs": 2729.53,
+    "price_percent_diff_rollover": 0.3791528453012408,
+    "price_percent_diff_entry": -0.1346841851837505,
+    "PnL_absdiff_abs_abspct": [
+      -0.40405255555125147,
+      -0.1346841851837505
+    ],
+    "held_for_candles": 3,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -0.001346841851837505
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 20:34:00",
+    "price_abs": 2732.44,
+    "price_percent_diff_rollover": 0.48616882782563586,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 20:58:00",
+    "price_abs": 2729.47,
+    "price_percent_diff_rollover": 0.37694633019763024,
+    "price_percent_diff_entry": -0.10873802556499894,
+    "PnL_absdiff_abs_abspct": [
+      -0.32621407669499686,
+      -0.10873802556499894
+    ],
+    "held_for_candles": 12,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 1.0056949912026658,
+    "reward_signal": 0.008969569656376668
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 21:00:00",
+    "price_abs": 2701.99,
+    "price_percent_diff_rollover": -0.6336375872492854,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 21:06:00",
+    "price_abs": 2700.29,
+    "price_percent_diff_rollover": -0.6961555151844955,
+    "price_percent_diff_entry": -0.06296103077636225,
+    "PnL_absdiff_abs_abspct": [
+      -0.18888309232908673,
+      -0.06296103077636225
+    ],
+    "held_for_candles": 3,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -0.0006296103077636225
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 21:08:00",
+    "price_abs": 2707.36,
+    "price_percent_diff_rollover": -0.4361544854774411,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 21:10:00",
+    "price_abs": 2706.78,
+    "price_percent_diff_rollover": -0.4574841314788653,
+    "price_percent_diff_entry": -0.021467416861149523,
+    "PnL_absdiff_abs_abspct": [
+      -0.06440225058344856,
+      -0.021467416861149523
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -1.0002146741686115
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 21:12:00",
+    "price_abs": 2712.4,
+    "price_percent_diff_rollover": -0.25080721677538814,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 21:14:00",
+    "price_abs": 2710.51,
+    "price_percent_diff_rollover": -0.3203124425386538,
+    "price_percent_diff_entry": -0.06972426031347785,
+    "PnL_absdiff_abs_abspct": [
+      -0.20917278094043354,
+      -0.06972426031347785
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -1.0006972426031349
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 21:16:00",
+    "price_abs": 2713.68,
+    "price_percent_diff_rollover": -0.203734894565352,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 21:18:00",
+    "price_abs": 2713.01,
+    "price_percent_diff_rollover": -0.22837431322215865,
+    "price_percent_diff_entry": -0.024733951547324252,
+    "PnL_absdiff_abs_abspct": [
+      -0.07420185464197275,
+      -0.024733951547324252
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.26237445676485155,
+    "reward_signal": -0.9976235949478247
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 21:20:00",
+    "price_abs": 2705.89,
+    "price_percent_diff_rollover": -0.4902141055155496,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 21:24:00",
+    "price_abs": 2698.53,
+    "price_percent_diff_rollover": -0.7608799582232993,
+    "price_percent_diff_entry": -0.2720436999616648,
+    "PnL_absdiff_abs_abspct": [
+      -0.8161310998849943,
+      -0.2720436999616648
+    ],
+    "held_for_candles": 2,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -0.002720436999616648
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 21:26:00",
+    "price_abs": 2699.01,
+    "price_percent_diff_rollover": -0.7432278373945316,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 21:30:00",
+    "price_abs": 2696.98,
+    "price_percent_diff_rollover": -0.817881598399533,
+    "price_percent_diff_entry": -0.07525725741040991,
+    "PnL_absdiff_abs_abspct": [
+      -0.2257717722312297,
+      -0.07525725741040991
+    ],
+    "held_for_candles": 2,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.27676827190183123,
+    "reward_signal": 0.0020151101449142135
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 21:32:00",
+    "price_abs": 2689.51,
+    "price_percent_diff_rollover": -1.0925927287972133,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 21:34:00",
+    "price_abs": 2681.0,
+    "price_percent_diff_rollover": -1.405550120990571,
+    "price_percent_diff_entry": -0.3164592735861439,
+    "PnL_absdiff_abs_abspct": [
+      -0.9493778207584317,
+      -0.3164592735861439
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -1.0031645927358614
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 21:36:00",
+    "price_abs": 2681.85,
+    "price_percent_diff_rollover": -1.374291157022966,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 21:38:00",
+    "price_abs": 2677.68,
+    "price_percent_diff_rollover": -1.5276439567228826,
+    "price_percent_diff_entry": -0.15553449554531398,
+    "PnL_absdiff_abs_abspct": [
+      -0.4666034866359419,
+      -0.15553449554531398
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.4142664581340123,
+    "reward_signal": -0.997412680374113
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 21:40:00",
+    "price_abs": 2666.57,
+    "price_percent_diff_rollover": -1.9362170034053752,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 21:42:00",
+    "price_abs": 2650.83,
+    "price_percent_diff_rollover": -2.5150594655820377,
+    "price_percent_diff_entry": -0.5903166661784879,
+    "PnL_absdiff_abs_abspct": [
+      -1.7709499985354638,
+      -0.5903166661784879
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -1.0059031666617848
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 21:44:00",
+    "price_abs": 2659.7,
+    "price_percent_diff_rollover": -2.1888629827671164,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 21:54:00",
+    "price_abs": 2647.15,
+    "price_percent_diff_rollover": -2.6503923919359123,
+    "price_percent_diff_entry": -0.4719030600871189,
+    "PnL_absdiff_abs_abspct": [
+      -1.4157091802613566,
+      -0.4719030600871189
+    ],
+    "held_for_candles": 5,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.13008991908778977,
+    "reward_signal": -0.0034181314099932915
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 21:56:00",
+    "price_abs": 2643.69,
+    "price_percent_diff_rollover": -2.7776347629099427,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 21:58:00",
+    "price_abs": 2637.49,
+    "price_percent_diff_rollover": -3.0056413236148614,
+    "price_percent_diff_entry": -0.23456618668845622,
+    "PnL_absdiff_abs_abspct": [
+      -0.7036985600653687,
+      -0.23456618668845622
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -1.0023456618668845
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 22:00:00",
+    "price_abs": 2645.18,
+    "price_percent_diff_rollover": -2.72283963783732,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 22:06:00",
+    "price_abs": 2636.0,
+    "price_percent_diff_rollover": -3.060436448687484,
+    "price_percent_diff_entry": -0.3470918492903703,
+    "PnL_absdiff_abs_abspct": [
+      -1.0412755478711109,
+      -0.3470918492903703
+    ],
+    "held_for_candles": 3,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -0.003470918492903703
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 22:08:00",
+    "price_abs": 2638.39,
+    "price_percent_diff_rollover": -2.9725435970609193,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 22:10:00",
+    "price_abs": 2637.69,
+    "price_percent_diff_rollover": -2.9982862732695312,
+    "price_percent_diff_entry": -0.02657682596053992,
+    "PnL_absdiff_abs_abspct": [
+      -0.07973047788161976,
+      -0.02657682596053992
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -1.0002657682596054
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 22:12:00",
+    "price_abs": 2643.58,
+    "price_percent_diff_rollover": -2.7816800405998734,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 22:52:00",
+    "price_abs": 2678.21,
+    "price_percent_diff_rollover": -1.5081530733077781,
+    "price_percent_diff_entry": 1.309921224866801,
+    "PnL_absdiff_abs_abspct": [
+      3.929763674600403,
+      1.309921224866801
+    ],
+    "held_for_candles": 20,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.18043721443561989,
+    "reward_signal": 0.01490358439302421
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 22:54:00",
+    "price_abs": 2673.44,
+    "price_percent_diff_rollover": -1.6835710240436503,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 22:56:00",
+    "price_abs": 2672.29,
+    "price_percent_diff_rollover": -1.7258625635292415,
+    "price_percent_diff_entry": -0.043060645326287825,
+    "PnL_absdiff_abs_abspct": [
+      -0.12918193597886346,
+      -0.043060645326287825
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -1.0004306064532629
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 22:58:00",
+    "price_abs": 2682.47,
+    "price_percent_diff_rollover": -1.3514905009524791,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 23:00:00",
+    "price_abs": 2680.81,
+    "price_percent_diff_rollover": -1.4125374188186266,
+    "price_percent_diff_entry": -0.0619280268953187,
+    "PnL_absdiff_abs_abspct": [
+      -0.18578408068595612,
+      -0.0619280268953187
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -1.000619280268953
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 23:02:00",
+    "price_abs": 2684.8,
+    "price_percent_diff_rollover": -1.2658041644294915,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 23:14:00",
+    "price_abs": 2712.36,
+    "price_percent_diff_rollover": -0.2522782268444507,
+    "price_percent_diff_entry": 1.026475424354576,
+    "PnL_absdiff_abs_abspct": [
+      3.079426273063728,
+      1.026475424354576
+    ],
+    "held_for_candles": 6,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.024210380092326123,
+    "reward_signal": 0.010506858044469021
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 23:16:00",
+    "price_abs": 2711.71,
+    "price_percent_diff_rollover": -0.27618214046674283,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 23:18:00",
+    "price_abs": 2704.23,
+    "price_percent_diff_rollover": -0.551261023381697,
+    "price_percent_diff_entry": -0.2758850806039109,
+    "PnL_absdiff_abs_abspct": [
+      -0.8276552418117328,
+      -0.2758850806039109
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -1.0027588508060392
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 23:20:00",
+    "price_abs": 2704.55,
+    "price_percent_diff_rollover": -0.5394929428291797,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 23:24:00",
+    "price_abs": 2702.48,
+    "price_percent_diff_rollover": -0.6156177139032437,
+    "price_percent_diff_entry": -0.07658209015015074,
+    "PnL_absdiff_abs_abspct": [
+      -0.22974627045045223,
+      -0.07658209015015074
+    ],
+    "held_for_candles": 2,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -0.0007658209015015074
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 23:26:00",
+    "price_abs": 2705.05,
+    "price_percent_diff_rollover": -0.5211053169658806,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 23:30:00",
+    "price_abs": 2702.72,
+    "price_percent_diff_rollover": -0.6067916534888682,
+    "price_percent_diff_entry": -0.0861795913019634,
+    "PnL_absdiff_abs_abspct": [
+      -0.2585387739058902,
+      -0.0861795913019634
+    ],
+    "held_for_candles": 2,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -0.000861795913019634
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-04 23:32:00",
+    "price_abs": 2713.85,
+    "price_percent_diff_rollover": -0.19748310177182762,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETHUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-04 23:52:00",
+    "price_abs": 2730.31,
+    "price_percent_diff_rollover": 0.407837541647978,
+    "price_percent_diff_entry": 0.6064744637449891,
+    "PnL_absdiff_abs_abspct": [
+      1.8194233912349675,
+      0.6064744637449891
+    ],
+    "held_for_candles": 10,
+    "position": 1,
+    "asset": "ETHUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": 0.006064744637449892
+  }
+]

@@ -1,0 +1,1352 @@
+[
+  {
+    "type": "open",
+    "timestamp": "2025-02-12 14:30:00",
+    "price_abs": 19.993,
+    "price_percent_diff_rollover": 0.0,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETCUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-12 15:04:00",
+    "price_abs": 20.216,
+    "price_percent_diff_rollover": 1.1153903866353352,
+    "price_percent_diff_entry": 1.10945449427285,
+    "PnL_absdiff_abs_abspct": [
+      3.3283634828185495,
+      1.10945449427285
+    ],
+    "held_for_candles": 17,
+    "position": 1,
+    "asset": "ETCUSDT",
+    "exit_bonus": 0.0950388457359983,
+    "reward_signal": 0.012044933400088482
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-12 15:06:00",
+    "price_abs": 20.197,
+    "price_percent_diff_rollover": 1.020357124993751,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETCUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-12 15:10:00",
+    "price_abs": 20.131,
+    "price_percent_diff_rollover": 0.6902415845546026,
+    "price_percent_diff_entry": -0.3327421608693731,
+    "PnL_absdiff_abs_abspct": [
+      -0.9982264826081193,
+      -0.3327421608693731
+    ],
+    "held_for_candles": 2,
+    "position": 1,
+    "asset": "ETCUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -0.003327421608693731
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-12 15:12:00",
+    "price_abs": 20.174,
+    "price_percent_diff_rollover": 0.9053168609013201,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETCUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-12 15:46:00",
+    "price_abs": 20.361,
+    "price_percent_diff_rollover": 1.8406442254789281,
+    "price_percent_diff_entry": 0.9210420396039121,
+    "PnL_absdiff_abs_abspct": [
+      2.763126118811736,
+      0.9210420396039121
+    ],
+    "held_for_candles": 17,
+    "position": 1,
+    "asset": "ETCUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": 0.00921042039603912
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-12 15:48:00",
+    "price_abs": 20.398,
+    "price_percent_diff_rollover": 2.025708998149358,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETCUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-12 15:56:00",
+    "price_abs": 20.395,
+    "price_percent_diff_rollover": 2.0107037463112145,
+    "price_percent_diff_entry": -0.020591119295281634,
+    "PnL_absdiff_abs_abspct": [
+      -0.061773357885844905,
+      -0.020591119295281634
+    ],
+    "held_for_candles": 4,
+    "position": 1,
+    "asset": "ETCUSDT",
+    "exit_bonus": 0.06863822148440397,
+    "reward_signal": 0.0004804710218912234
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-12 15:58:00",
+    "price_abs": 20.381,
+    "price_percent_diff_rollover": 1.9406792377332152,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETCUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-12 16:00:00",
+    "price_abs": 20.379,
+    "price_percent_diff_rollover": 1.9306757365077916,
+    "price_percent_diff_entry": -0.01570147572881497,
+    "PnL_absdiff_abs_abspct": [
+      -0.047104427186444905,
+      -0.01570147572881497
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "ETCUSDT",
+    "exit_bonus": 0.06869547630499652,
+    "reward_signal": -0.9994700599942382
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-12 16:02:00",
+    "price_abs": 20.365,
+    "price_percent_diff_rollover": 1.860651227929775,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETCUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-12 16:04:00",
+    "price_abs": 20.35,
+    "price_percent_diff_rollover": 1.7856249687390733,
+    "price_percent_diff_entry": -0.0795525878756766,
+    "PnL_absdiff_abs_abspct": [
+      -0.23865776362702978,
+      -0.0795525878756766
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "ETCUSDT",
+    "exit_bonus": 0.09330283460241368,
+    "reward_signal": -0.9998624975327326
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-12 16:06:00",
+    "price_abs": 20.331,
+    "price_percent_diff_rollover": 1.6905917070974892,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETCUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-12 16:08:00",
+    "price_abs": 20.304,
+    "price_percent_diff_rollover": 1.5555444405541938,
+    "price_percent_diff_entry": -0.13871229031863597,
+    "PnL_absdiff_abs_abspct": [
+      -0.4161368709559079,
+      -0.13871229031863597
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "ETCUSDT",
+    "exit_bonus": 0.09345888287785037,
+    "reward_signal": -1.000452534074408
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-12 16:10:00",
+    "price_abs": 20.285,
+    "price_percent_diff_rollover": 1.4605111789126275,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETCUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-12 16:26:00",
+    "price_abs": 20.241,
+    "price_percent_diff_rollover": 1.2404341519531892,
+    "price_percent_diff_entry": -0.2228376069350303,
+    "PnL_absdiff_abs_abspct": [
+      -0.6685128208050909,
+      -0.2228376069350303
+    ],
+    "held_for_candles": 8,
+    "position": 1,
+    "asset": "ETCUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -0.002228376069350303
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-12 16:28:00",
+    "price_abs": 20.289,
+    "price_percent_diff_rollover": 1.480518181363492,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETCUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-12 18:34:00",
+    "price_abs": 20.872,
+    "price_percent_diff_rollover": 4.3965387885760085,
+    "price_percent_diff_entry": 2.867728910195161,
+    "PnL_absdiff_abs_abspct": [
+      8.603186730585483,
+      2.867728910195161
+    ],
+    "held_for_candles": 63,
+    "position": 1,
+    "asset": "ETCUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": 0.028677289101951612
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-12 18:36:00",
+    "price_abs": 20.904,
+    "price_percent_diff_rollover": 4.556594808182871,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETCUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-12 18:42:00",
+    "price_abs": 20.89,
+    "price_percent_diff_rollover": 4.486570299604872,
+    "price_percent_diff_entry": -0.0727172034660411,
+    "PnL_absdiff_abs_abspct": [
+      -0.2181516103981233,
+      -0.0727172034660411
+    ],
+    "held_for_candles": 3,
+    "position": 1,
+    "asset": "ETCUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -0.000727172034660411
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-12 18:44:00",
+    "price_abs": 20.923,
+    "price_percent_diff_rollover": 4.651628069824437,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETCUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-12 19:08:00",
+    "price_abs": 20.92,
+    "price_percent_diff_rollover": 4.636622817986312,
+    "price_percent_diff_entry": -0.020074425675699375,
+    "PnL_absdiff_abs_abspct": [
+      -0.06022327702709812,
+      -0.020074425675699375
+    ],
+    "held_for_candles": 12,
+    "position": 1,
+    "asset": "ETCUSDT",
+    "exit_bonus": 0.028678221652571254,
+    "reward_signal": 8.60379597687188e-05
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-12 19:10:00",
+    "price_abs": 20.914,
+    "price_percent_diff_rollover": 4.6066123143100235,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETCUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-12 20:42:00",
+    "price_abs": 21.189,
+    "price_percent_diff_rollover": 5.98209373280649,
+    "price_percent_diff_entry": 1.3092453577443102,
+    "PnL_absdiff_abs_abspct": [
+      3.9277360732329307,
+      1.3092453577443102
+    ],
+    "held_for_candles": 46,
+    "position": 1,
+    "asset": "ETCUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": 0.013092453577443102
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-12 20:44:00",
+    "price_abs": 21.233,
+    "price_percent_diff_rollover": 6.202170759765928,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETCUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-12 20:46:00",
+    "price_abs": 21.196,
+    "price_percent_diff_rollover": 6.017105987095499,
+    "price_percent_diff_entry": -0.179918498256745,
+    "PnL_absdiff_abs_abspct": [
+      -0.539755494770235,
+      -0.179918498256745
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "ETCUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -1.0017991849825674
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-12 20:48:00",
+    "price_abs": 21.215,
+    "price_percent_diff_rollover": 6.112139248737065,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETCUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-12 20:52:00",
+    "price_abs": 21.182,
+    "price_percent_diff_rollover": 5.9470814785174815,
+    "price_percent_diff_entry": -0.16121550559439518,
+    "PnL_absdiff_abs_abspct": [
+      -0.48364651678318554,
+      -0.16121550559439518
+    ],
+    "held_for_candles": 2,
+    "position": 1,
+    "asset": "ETCUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -0.0016121550559439518
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-12 20:54:00",
+    "price_abs": 21.183,
+    "price_percent_diff_rollover": 5.952083229130203,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETCUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-12 20:58:00",
+    "price_abs": 21.178,
+    "price_percent_diff_rollover": 5.927074476066635,
+    "price_percent_diff_entry": -0.02927009069948002,
+    "PnL_absdiff_abs_abspct": [
+      -0.08781027209844006,
+      -0.02927009069948002
+    ],
+    "held_for_candles": 2,
+    "position": 1,
+    "asset": "ETCUSDT",
+    "exit_bonus": 0.11330482823997517,
+    "reward_signal": 0.0008403473754049515
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-12 21:00:00",
+    "price_abs": 21.154,
+    "price_percent_diff_rollover": 5.807032461361484,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETCUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-12 21:02:00",
+    "price_abs": 21.136,
+    "price_percent_diff_rollover": 5.71700095033262,
+    "price_percent_diff_entry": -0.09076780728498884,
+    "PnL_absdiff_abs_abspct": [
+      -0.27230342185496653,
+      -0.09076780728498884
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "ETCUSDT",
+    "exit_bonus": 0.07564011470697835,
+    "reward_signal": -1.00015127692578
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-12 21:04:00",
+    "price_abs": 21.12,
+    "price_percent_diff_rollover": 5.636972940529198,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETCUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-12 21:58:00",
+    "price_abs": 21.104,
+    "price_percent_diff_rollover": 5.5569449307257575,
+    "price_percent_diff_entry": -0.08144370161050311,
+    "PnL_absdiff_abs_abspct": [
+      -0.24433110483150935,
+      -0.08144370161050311
+    ],
+    "held_for_candles": 27,
+    "position": 1,
+    "asset": "ETCUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -0.0008144370161050311
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-12 22:00:00",
+    "price_abs": 21.11,
+    "price_percent_diff_rollover": 5.586955434402046,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETCUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-12 22:02:00",
+    "price_abs": 21.077,
+    "price_percent_diff_rollover": 5.42189766418248,
+    "price_percent_diff_entry": -0.16201742693158436,
+    "PnL_absdiff_abs_abspct": [
+      -0.48605228079475304,
+      -0.16201742693158436
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "ETCUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -1.0016201742693158
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-12 22:04:00",
+    "price_abs": 21.08,
+    "price_percent_diff_rollover": 5.436902916020606,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETCUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-12 22:12:00",
+    "price_abs": 21.079,
+    "price_percent_diff_rollover": 5.431901165407903,
+    "price_percent_diff_entry": -0.010436702697791634,
+    "PnL_absdiff_abs_abspct": [
+      -0.0313101080933749,
+      -0.010436702697791634
+    ],
+    "held_for_candles": 4,
+    "position": 1,
+    "asset": "ETCUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -0.00010436702697791635
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-12 22:14:00",
+    "price_abs": 21.092,
+    "price_percent_diff_rollover": 5.496923923373182,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETCUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-12 22:16:00",
+    "price_abs": 21.075,
+    "price_percent_diff_rollover": 5.411894162957039,
+    "price_percent_diff_entry": -0.08629322952555334,
+    "PnL_absdiff_abs_abspct": [
+      -0.25887968857666005,
+      -0.08629322952555334
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "ETCUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -1.0008629322952556
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-12 22:18:00",
+    "price_abs": 21.175,
+    "price_percent_diff_rollover": 5.912069224228491,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETCUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-12 22:42:00",
+    "price_abs": 21.507,
+    "price_percent_diff_rollover": 7.572650427649692,
+    "price_percent_diff_entry": 1.5623070800539485,
+    "PnL_absdiff_abs_abspct": [
+      4.686921240161846,
+      1.5623070800539485
+    ],
+    "held_for_candles": 12,
+    "position": 1,
+    "asset": "ETCUSDT",
+    "exit_bonus": 0.1133474375459198,
+    "reward_signal": 0.016756545175998682
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-12 22:44:00",
+    "price_abs": 21.483,
+    "price_percent_diff_rollover": 7.4526084129445405,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETCUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-12 22:46:00",
+    "price_abs": 21.432,
+    "price_percent_diff_rollover": 7.197519131696094,
+    "price_percent_diff_entry": -0.242996115733906,
+    "PnL_absdiff_abs_abspct": [
+      -0.728988347201718,
+      -0.242996115733906
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "ETCUSDT",
+    "exit_bonus": 0.08379188700922574,
+    "reward_signal": -1.0015920422872469
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-12 22:48:00",
+    "price_abs": 21.414,
+    "price_percent_diff_rollover": 7.107487620667249,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETCUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-12 22:50:00",
+    "price_abs": 21.41,
+    "price_percent_diff_rollover": 7.087480618216384,
+    "price_percent_diff_entry": -0.0242842261805504,
+    "PnL_absdiff_abs_abspct": [
+      -0.0728526785416512,
+      -0.0242842261805504
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "ETCUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -1.0002428422618055
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-12 22:52:00",
+    "price_abs": 21.423,
+    "price_percent_diff_rollover": 7.152503376181663,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETCUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-12 22:56:00",
+    "price_abs": 21.407,
+    "price_percent_diff_rollover": 7.0724753663782405,
+    "price_percent_diff_entry": -0.08029172806273852,
+    "PnL_absdiff_abs_abspct": [
+      -0.24087518418821555,
+      -0.08029172806273852
+    ],
+    "held_for_candles": 2,
+    "position": 1,
+    "asset": "ETCUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -0.0008029172806273852
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-12 22:58:00",
+    "price_abs": 21.428,
+    "price_percent_diff_rollover": 7.1775121292452475,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETCUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-12 23:02:00",
+    "price_abs": 21.422,
+    "price_percent_diff_rollover": 7.147501625568959,
+    "price_percent_diff_entry": -0.033602464546723144,
+    "PnL_absdiff_abs_abspct": [
+      -0.10080739364016944,
+      -0.033602464546723144
+    ],
+    "held_for_candles": 2,
+    "position": 1,
+    "asset": "ETCUSDT",
+    "exit_bonus": 0.11200926963390714,
+    "reward_signal": 0.00078406805087184
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-12 23:04:00",
+    "price_abs": 21.398,
+    "price_percent_diff_rollover": 7.027459610863808,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETCUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-12 23:06:00",
+    "price_abs": 21.369,
+    "price_percent_diff_rollover": 6.8824088430950905,
+    "price_percent_diff_entry": -0.14114229613658202,
+    "PnL_absdiff_abs_abspct": [
+      -0.423426888409746,
+      -0.14114229613658202
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "ETCUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -1.0014114229613658
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-12 23:08:00",
+    "price_abs": 21.38,
+    "price_percent_diff_rollover": 6.937428099834945,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETCUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-12 23:10:00",
+    "price_abs": 21.354,
+    "price_percent_diff_rollover": 6.80738258390437,
+    "price_percent_diff_entry": -0.12722853641054313,
+    "PnL_absdiff_abs_abspct": [
+      -0.3816856092316294,
+      -0.12722853641054313
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "ETCUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -1.0012722853641054
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-12 23:12:00",
+    "price_abs": 21.355,
+    "price_percent_diff_rollover": 6.812384334517091,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETCUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-12 23:14:00",
+    "price_abs": 21.334,
+    "price_percent_diff_rollover": 6.707347571650084,
+    "price_percent_diff_entry": -0.10396245007299408,
+    "PnL_absdiff_abs_abspct": [
+      -0.3118873502189823,
+      -0.10396245007299408
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "ETCUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -1.00103962450073
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-12 23:16:00",
+    "price_abs": 21.367,
+    "price_percent_diff_rollover": 6.8724053418696665,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETCUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-12 23:18:00",
+    "price_abs": 21.32,
+    "price_percent_diff_rollover": 6.637323063072084,
+    "price_percent_diff_entry": -0.22559388497860117,
+    "PnL_absdiff_abs_abspct": [
+      -0.6767816549358036,
+      -0.22559388497860117
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "ETCUSDT",
+    "exit_bonus": 0.051484161661256245,
+    "reward_signal": -1.0017410972331735
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-12 23:20:00",
+    "price_abs": 21.309,
+    "price_percent_diff_rollover": 6.582303806332229,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETCUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-12 23:22:00",
+    "price_abs": 21.293,
+    "price_percent_diff_rollover": 6.502275796528789,
+    "price_percent_diff_entry": -0.08072129947340279,
+    "PnL_absdiff_abs_abspct": [
+      -0.24216389842020836,
+      -0.08072129947340279
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "ETCUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -1.000807212994734
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-12 23:24:00",
+    "price_abs": 21.309,
+    "price_percent_diff_rollover": 6.582303806332229,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETCUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-12 23:26:00",
+    "price_abs": 21.303,
+    "price_percent_diff_rollover": 6.552293302655941,
+    "price_percent_diff_entry": -0.03379012614654064,
+    "PnL_absdiff_abs_abspct": [
+      -0.10137037843962192,
+      -0.03379012614654064
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "ETCUSDT",
+    "exit_bonus": 0.009386234466670654,
+    "reward_signal": -1.0002440389167988
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-12 23:28:00",
+    "price_abs": 21.301,
+    "price_percent_diff_rollover": 6.542289801430501,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETCUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-12 23:30:00",
+    "price_abs": 21.28,
+    "price_percent_diff_rollover": 6.437253038563511,
+    "price_percent_diff_entry": -0.10422601854618825,
+    "PnL_absdiff_abs_abspct": [
+      -0.31267805563856477,
+      -0.10422601854618825
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "ETCUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -1.0010422601854618
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-12 23:32:00",
+    "price_abs": 21.35,
+    "price_percent_diff_rollover": 6.7873755814535235,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETCUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-12 23:44:00",
+    "price_abs": 21.345,
+    "price_percent_diff_rollover": 6.762366828389939,
+    "price_percent_diff_entry": -0.029041129256571582,
+    "PnL_absdiff_abs_abspct": [
+      -0.08712338776971475,
+      -0.029041129256571582
+    ],
+    "held_for_candles": 6,
+    "position": 1,
+    "asset": "ETCUSDT",
+    "exit_bonus": 0.051525146958312104,
+    "reward_signal": 0.0002248401770174052
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-12 23:46:00",
+    "price_abs": 21.334,
+    "price_percent_diff_rollover": 6.707347571650084,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETCUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-12 23:50:00",
+    "price_abs": 21.324,
+    "price_percent_diff_rollover": 6.657330065522949,
+    "price_percent_diff_entry": -0.052500997216647007,
+    "PnL_absdiff_abs_abspct": [
+      -0.15750299164994103,
+      -0.052500997216647007
+    ],
+    "held_for_candles": 2,
+    "position": 1,
+    "asset": "ETCUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -0.00052500997216647
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-12 23:52:00",
+    "price_abs": 21.357,
+    "price_percent_diff_rollover": 6.822387835742514,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETCUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-12 23:54:00",
+    "price_abs": 21.354,
+    "price_percent_diff_rollover": 6.80738258390437,
+    "price_percent_diff_entry": -0.01966647275685614,
+    "PnL_absdiff_abs_abspct": [
+      -0.05899941827056842,
+      -0.01966647275685614
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "ETCUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -1.0001966647275686
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-12 23:56:00",
+    "price_abs": 21.359,
+    "price_percent_diff_rollover": 6.832391336967955,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETCUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-13 00:00:00",
+    "price_abs": 21.337,
+    "price_percent_diff_rollover": 6.722352823488227,
+    "price_percent_diff_entry": -0.10862511019871367,
+    "PnL_absdiff_abs_abspct": [
+      -0.325875330596141,
+      -0.10862511019871367
+    ],
+    "held_for_candles": 2,
+    "position": 1,
+    "asset": "ETCUSDT",
+    "exit_bonus": 0.2481529624099053,
+    "reward_signal": 0.0013952785221119162
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-13 00:02:00",
+    "price_abs": 21.284,
+    "price_percent_diff_rollover": 6.457260041014358,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETCUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-13 00:30:00",
+    "price_abs": 21.273,
+    "price_percent_diff_rollover": 6.402240784274501,
+    "price_percent_diff_entry": -0.05732296798000637,
+    "PnL_absdiff_abs_abspct": [
+      -0.1719689039400191,
+      -0.05732296798000637
+    ],
+    "held_for_candles": 14,
+    "position": 1,
+    "asset": "ETCUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -0.0005732296798000636
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-13 00:32:00",
+    "price_abs": 21.33,
+    "price_percent_diff_rollover": 6.687340569199218,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETCUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-13 00:42:00",
+    "price_abs": 21.32,
+    "price_percent_diff_rollover": 6.637323063072084,
+    "price_percent_diff_entry": -0.05251084318696848,
+    "PnL_absdiff_abs_abspct": [
+      -0.15753252956090544,
+      -0.05251084318696848
+    ],
+    "held_for_candles": 5,
+    "position": 1,
+    "asset": "ETCUSDT",
+    "exit_bonus": 0.060950457089384284,
+    "reward_signal": 8.439613902415807e-05
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-13 00:44:00",
+    "price_abs": 21.307,
+    "price_percent_diff_rollover": 6.572300305106789,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETCUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-13 02:06:00",
+    "price_abs": 21.454,
+    "price_percent_diff_rollover": 7.307557645175823,
+    "price_percent_diff_entry": 0.6843207501897988,
+    "PnL_absdiff_abs_abspct": [
+      2.0529622505693963,
+      0.6843207501897988
+    ],
+    "held_for_candles": 41,
+    "position": 1,
+    "asset": "ETCUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": 0.006843207501897988
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-13 02:08:00",
+    "price_abs": 21.463,
+    "price_percent_diff_rollover": 7.352573400690254,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETCUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-13 02:10:00",
+    "price_abs": 21.451,
+    "price_percent_diff_rollover": 7.292552393337679,
+    "price_percent_diff_entry": -0.06150431578705618,
+    "PnL_absdiff_abs_abspct": [
+      -0.18451294736116855,
+      -0.06150431578705618
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "ETCUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -1.0006150431578706
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-13 02:12:00",
+    "price_abs": 21.458,
+    "price_percent_diff_rollover": 7.327564647626669,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETCUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-13 02:16:00",
+    "price_abs": 21.456,
+    "price_percent_diff_rollover": 7.317561146401245,
+    "price_percent_diff_entry": -0.01491337429780109,
+    "PnL_absdiff_abs_abspct": [
+      -0.04474012289340327,
+      -0.01491337429780109
+    ],
+    "held_for_candles": 2,
+    "position": 1,
+    "asset": "ETCUSDT",
+    "exit_bonus": 0.023302636468037083,
+    "reward_signal": 8.389262170235994e-05
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-13 02:18:00",
+    "price_abs": 21.451,
+    "price_percent_diff_rollover": 7.292552393337679,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETCUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-13 02:20:00",
+    "price_abs": 21.442,
+    "price_percent_diff_rollover": 7.247536637823247,
+    "price_percent_diff_entry": -0.047552578827831544,
+    "PnL_absdiff_abs_abspct": [
+      -0.14265773648349464,
+      -0.047552578827831544
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "ETCUSDT",
+    "exit_bonus": 0.13519941197665972,
+    "reward_signal": -0.9991235316685118
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-13 02:22:00",
+    "price_abs": 21.413,
+    "price_percent_diff_rollover": 7.102485870054529,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETCUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-13 02:46:00",
+    "price_abs": 21.412,
+    "price_percent_diff_rollover": 7.097484119441807,
+    "price_percent_diff_entry": -0.010274394262090343,
+    "PnL_absdiff_abs_abspct": [
+      -0.030823182786271032,
+      -0.010274394262090343
+    ],
+    "held_for_candles": 12,
+    "position": 1,
+    "asset": "ETCUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -0.00010274394262090344
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-13 02:48:00",
+    "price_abs": 21.433,
+    "price_percent_diff_rollover": 7.202520882308814,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETCUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-13 02:50:00",
+    "price_abs": 21.406,
+    "price_percent_diff_rollover": 7.06747361576552,
+    "price_percent_diff_entry": -0.13157987026697326,
+    "PnL_absdiff_abs_abspct": [
+      -0.3947396108009198,
+      -0.13157987026697326
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "ETCUSDT",
+    "exit_bonus": 0.20063648783510418,
+    "reward_signal": -0.9993094338243187
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-13 02:52:00",
+    "price_abs": 21.363,
+    "price_percent_diff_rollover": 6.852398339418802,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETCUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-13 04:52:00",
+    "price_abs": 21.343,
+    "price_percent_diff_rollover": 6.752363327164515,
+    "price_percent_diff_entry": -0.09924226227807345,
+    "PnL_absdiff_abs_abspct": [
+      -0.2977267868342203,
+      -0.09924226227807345
+    ],
+    "held_for_candles": 60,
+    "position": 1,
+    "asset": "ETCUSDT",
+    "exit_bonus": 0.19661268690400172,
+    "reward_signal": 0.0009737042462592826
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-13 04:54:00",
+    "price_abs": 21.301,
+    "price_percent_diff_rollover": 6.542289801430501,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETCUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-13 05:06:00",
+    "price_abs": 21.243,
+    "price_percent_diff_rollover": 6.252188265893063,
+    "price_percent_diff_entry": -0.27793660566824757,
+    "PnL_absdiff_abs_abspct": [
+      -0.8338098170047427,
+      -0.27793660566824757
+    ],
+    "held_for_candles": 6,
+    "position": 1,
+    "asset": "ETCUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -0.0027793660566824757
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-13 05:08:00",
+    "price_abs": 21.267,
+    "price_percent_diff_rollover": 6.372230280598215,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETCUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-13 06:34:00",
+    "price_abs": 21.215,
+    "price_percent_diff_rollover": 6.112139248737065,
+    "price_percent_diff_entry": -0.25016664933985444,
+    "PnL_absdiff_abs_abspct": [
+      -0.7504999480195633,
+      -0.25016664933985444
+    ],
+    "held_for_candles": 43,
+    "position": 1,
+    "asset": "ETCUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -0.0025016664933985443
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-13 06:36:00",
+    "price_abs": 21.258,
+    "price_percent_diff_rollover": 6.327214525083782,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETCUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-13 06:38:00",
+    "price_abs": 21.234,
+    "price_percent_diff_rollover": 6.207172510378649,
+    "price_percent_diff_entry": -0.1185499873710635,
+    "PnL_absdiff_abs_abspct": [
+      -0.35564996211319044,
+      -0.1185499873710635
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "ETCUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -1.0011854998737106
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-13 06:40:00",
+    "price_abs": 21.257,
+    "price_percent_diff_rollover": 6.32221277447108,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETCUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-13 06:44:00",
+    "price_abs": 21.215,
+    "price_percent_diff_rollover": 6.112139248737065,
+    "price_percent_diff_entry": -0.20323834820335981,
+    "PnL_absdiff_abs_abspct": [
+      -0.6097150446100794,
+      -0.20323834820335981
+    ],
+    "held_for_candles": 2,
+    "position": 1,
+    "asset": "ETCUSDT",
+    "exit_bonus": 0.479869261199941,
+    "reward_signal": 0.0027663091299658118
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-13 06:46:00",
+    "price_abs": 21.113,
+    "price_percent_diff_rollover": 5.601960686240189,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "ETCUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-13 07:10:00",
+    "price_abs": 21.249,
+    "price_percent_diff_rollover": 6.2821987695693515,
+    "price_percent_diff_entry": 0.6385055670034008,
+    "PnL_absdiff_abs_abspct": [
+      1.9155167010102023,
+      0.6385055670034008
+    ],
+    "held_for_candles": 12,
+    "position": 1,
+    "asset": "ETCUSDT",
+    "exit_bonus": 0.047366842145552424,
+    "reward_signal": 0.006858724091489532
+  }
+]

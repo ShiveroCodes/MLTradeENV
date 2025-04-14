@@ -1,0 +1,1568 @@
+[
+  {
+    "type": "open",
+    "timestamp": "2025-02-21 11:56:00",
+    "price_abs": 177.116,
+    "price_percent_diff_rollover": 0.0,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "SOLUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-21 11:58:00",
+    "price_abs": 177.096,
+    "price_percent_diff_rollover": -0.011292034598799787,
+    "price_percent_diff_entry": -0.011969633189394719,
+    "PnL_absdiff_abs_abspct": [
+      -0.03590889956818416,
+      -0.011969633189394719
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "SOLUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -1.000119696331894
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-21 12:00:00",
+    "price_abs": 177.299,
+    "price_percent_diff_rollover": 0.10332211657896108,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "SOLUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-21 12:04:00",
+    "price_abs": 176.891,
+    "price_percent_diff_rollover": -0.12703538923644545,
+    "price_percent_diff_entry": -0.23079812509161277,
+    "PnL_absdiff_abs_abspct": [
+      -0.6923943752748383,
+      -0.23079812509161277
+    ],
+    "held_for_candles": 2,
+    "position": 1,
+    "asset": "SOLUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -0.0023079812509161275
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-21 12:06:00",
+    "price_abs": 176.986,
+    "price_percent_diff_rollover": -0.07339822489217454,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "SOLUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-21 12:08:00",
+    "price_abs": 176.663,
+    "price_percent_diff_rollover": -0.255764583662686,
+    "price_percent_diff_entry": -0.18317957013988637,
+    "PnL_absdiff_abs_abspct": [
+      -0.5495387104196591,
+      -0.18317957013988637
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "SOLUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -1.001831795701399
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-21 12:10:00",
+    "price_abs": 176.674,
+    "price_percent_diff_rollover": -0.24955396463335172,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "SOLUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-21 13:28:00",
+    "price_abs": 179.324,
+    "price_percent_diff_rollover": 1.2466406197068578,
+    "price_percent_diff_entry": 1.4992685586248877,
+    "PnL_absdiff_abs_abspct": [
+      4.497805675874663,
+      1.4992685586248877
+    ],
+    "held_for_candles": 39,
+    "position": 1,
+    "asset": "SOLUSDT",
+    "exit_bonus": 0.08490269635837944,
+    "reward_signal": 0.015841712549832673
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-21 13:30:00",
+    "price_abs": 179.174,
+    "price_percent_diff_rollover": 1.1619503602158994,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "SOLUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-21 13:32:00",
+    "price_abs": 178.984,
+    "price_percent_diff_rollover": 1.0546760315273578,
+    "price_percent_diff_entry": -0.10671262228720617,
+    "PnL_absdiff_abs_abspct": [
+      -0.32013786686161855,
+      -0.10671262228720617
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "SOLUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -1.001067126222872
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-21 13:34:00",
+    "price_abs": 179.294,
+    "price_percent_diff_rollover": 1.2297025678086662,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "SOLUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-21 14:02:00",
+    "price_abs": 179.204,
+    "price_percent_diff_rollover": 1.178888412114091,
+    "price_percent_diff_entry": -0.05086651124138147,
+    "PnL_absdiff_abs_abspct": [
+      -0.1525995337241444,
+      -0.05086651124138147
+    ],
+    "held_for_candles": 14,
+    "position": 1,
+    "asset": "SOLUSDT",
+    "exit_bonus": 0.005577468850145137,
+    "reward_signal": -0.0004528904239123633
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-21 14:04:00",
+    "price_abs": 179.194,
+    "price_percent_diff_rollover": 1.1732423948146833,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "SOLUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-21 14:06:00",
+    "price_abs": 179.014,
+    "price_percent_diff_rollover": 1.0716140834255494,
+    "price_percent_diff_entry": -0.1011201304784297,
+    "PnL_absdiff_abs_abspct": [
+      -0.3033603914352891,
+      -0.1011201304784297
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "SOLUSDT",
+    "exit_bonus": 0.04352853534048655,
+    "reward_signal": -1.0005759159513794
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-21 14:08:00",
+    "price_abs": 178.936,
+    "price_percent_diff_rollover": 1.0275751484902511,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "SOLUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-21 14:10:00",
+    "price_abs": 178.729,
+    "price_percent_diff_rollover": 0.9107025903927366,
+    "price_percent_diff_entry": -0.11635522746323941,
+    "PnL_absdiff_abs_abspct": [
+      -0.34906568238971825,
+      -0.11635522746323941
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "SOLUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -1.0011635522746325
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-21 14:12:00",
+    "price_abs": 178.916,
+    "price_percent_diff_rollover": 1.0162831138914512,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "SOLUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-21 14:14:00",
+    "price_abs": 178.776,
+    "price_percent_diff_rollover": 0.9372388716999009,
+    "price_percent_diff_entry": -0.07892024174665159,
+    "PnL_absdiff_abs_abspct": [
+      -0.23676072523995478,
+      -0.07892024174665159
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "SOLUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -1.0007892024174665
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-21 14:16:00",
+    "price_abs": 178.865,
+    "price_percent_diff_rollover": 0.9874884256645334,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "SOLUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-21 14:22:00",
+    "price_abs": 178.386,
+    "price_percent_diff_rollover": 0.7170441970234093,
+    "price_percent_diff_entry": -0.2684724357621518,
+    "PnL_absdiff_abs_abspct": [
+      -0.8054173072864553,
+      -0.2684724357621518
+    ],
+    "held_for_candles": 3,
+    "position": 1,
+    "asset": "SOLUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -0.0026847243576215178
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-21 14:24:00",
+    "price_abs": 178.461,
+    "price_percent_diff_rollover": 0.7593893267688966,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "SOLUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-21 14:30:00",
+    "price_abs": 177.584,
+    "price_percent_diff_rollover": 0.2642336096117738,
+    "price_percent_diff_entry": -0.4920996330904668,
+    "PnL_absdiff_abs_abspct": [
+      -1.4762988992714003,
+      -0.4920996330904668
+    ],
+    "held_for_candles": 3,
+    "position": 1,
+    "asset": "SOLUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -0.004920996330904668
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-21 14:32:00",
+    "price_abs": 177.604,
+    "price_percent_diff_rollover": 0.2755256442105736,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "SOLUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-21 14:34:00",
+    "price_abs": 177.475,
+    "price_percent_diff_rollover": 0.20269202104834144,
+    "price_percent_diff_entry": -0.073309650816167,
+    "PnL_absdiff_abs_abspct": [
+      -0.219928952448501,
+      -0.073309650816167
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "SOLUSDT",
+    "exit_bonus": 0.23591971005361248,
+    "reward_signal": -0.9983738994076256
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-21 14:36:00",
+    "price_abs": 177.056,
+    "price_percent_diff_rollover": -0.03387610379638331,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "SOLUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-21 14:38:00",
+    "price_abs": 176.474,
+    "price_percent_diff_rollover": -0.3624743106213015,
+    "price_percent_diff_entry": -0.32938954767051665,
+    "PnL_absdiff_abs_abspct": [
+      -0.9881686430115499,
+      -0.32938954767051665
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "SOLUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -1.0032938954767052
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-21 14:40:00",
+    "price_abs": 177.076,
+    "price_percent_diff_rollover": -0.022584069197599574,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "SOLUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-21 14:50:00",
+    "price_abs": 176.954,
+    "price_percent_diff_rollover": -0.09146548025023495,
+    "price_percent_diff_entry": -0.06957511313427173,
+    "PnL_absdiff_abs_abspct": [
+      -0.20872533940281518,
+      -0.06957511313427173
+    ],
+    "held_for_candles": 5,
+    "position": 1,
+    "asset": "SOLUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -0.0006957511313427173
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-21 14:52:00",
+    "price_abs": 177.484,
+    "price_percent_diff_rollover": 0.20777343661780695,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "SOLUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-21 14:54:00",
+    "price_abs": 177.084,
+    "price_percent_diff_rollover": -0.01806725535807645,
+    "price_percent_diff_entry": -0.2260500724448606,
+    "PnL_absdiff_abs_abspct": [
+      -0.6781502173345818,
+      -0.2260500724448606
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "SOLUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -1.0022605007244485
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-21 14:56:00",
+    "price_abs": 177.616,
+    "price_percent_diff_rollover": 0.28230086496985024,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "SOLUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-21 14:58:00",
+    "price_abs": 177.574,
+    "price_percent_diff_rollover": 0.25858759231238193,
+    "price_percent_diff_entry": -0.02432229293832559,
+    "PnL_absdiff_abs_abspct": [
+      -0.07296687881497677,
+      -0.02432229293832559
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "SOLUSDT",
+    "exit_bonus": 0.045604308033495314,
+    "reward_signal": -0.9997871798490483
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-21 15:00:00",
+    "price_abs": 177.493,
+    "price_percent_diff_rollover": 0.21285485218725644,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "SOLUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-21 15:02:00",
+    "price_abs": 177.436,
+    "price_percent_diff_rollover": 0.1806725535807003,
+    "price_percent_diff_entry": -0.032790242708779845,
+    "PnL_absdiff_abs_abspct": [
+      -0.09837072812633953,
+      -0.032790242708779845
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "SOLUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -1.0003279024270877
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-21 15:04:00",
+    "price_abs": 177.934,
+    "price_percent_diff_rollover": 0.46184421509066576,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "SOLUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-21 15:06:00",
+    "price_abs": 177.417,
+    "price_percent_diff_rollover": 0.16994512071184292,
+    "price_percent_diff_entry": -0.2912335454979985,
+    "PnL_absdiff_abs_abspct": [
+      -0.8737006364939954,
+      -0.2912335454979985
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "SOLUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -1.00291233545498
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-21 15:08:00",
+    "price_abs": 177.674,
+    "price_percent_diff_rollover": 0.31504776530634876,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "SOLUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-21 15:20:00",
+    "price_abs": 176.555,
+    "price_percent_diff_rollover": -0.31674157049617596,
+    "price_percent_diff_entry": -0.6304848236444307,
+    "PnL_absdiff_abs_abspct": [
+      -1.891454470933292,
+      -0.6304848236444307
+    ],
+    "held_for_candles": 6,
+    "position": 1,
+    "asset": "SOLUSDT",
+    "exit_bonus": 0.18123203532775367,
+    "reward_signal": -0.00449252788316677
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-21 15:22:00",
+    "price_abs": 176.233,
+    "price_percent_diff_rollover": -0.49854332753676106,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "SOLUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-21 15:24:00",
+    "price_abs": 175.189,
+    "price_percent_diff_rollover": -1.0879875335938145,
+    "price_percent_diff_entry": -0.5930825391010364,
+    "PnL_absdiff_abs_abspct": [
+      -1.779247617303109,
+      -0.5930825391010364
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "SOLUSDT",
+    "exit_bonus": 0.0856826141374395,
+    "reward_signal": -1.005073999249636
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-21 15:26:00",
+    "price_abs": 175.038,
+    "price_percent_diff_rollover": -1.1732423948146993,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "SOLUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-21 15:30:00",
+    "price_abs": 174.664,
+    "price_percent_diff_rollover": -1.3844034418121607,
+    "price_percent_diff_entry": -0.21435492264816872,
+    "PnL_absdiff_abs_abspct": [
+      -0.6430647679445062,
+      -0.21435492264816872
+    ],
+    "held_for_candles": 2,
+    "position": 1,
+    "asset": "SOLUSDT",
+    "exit_bonus": 0.41705518069065095,
+    "reward_signal": 0.0020270025804248223
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-21 15:32:00",
+    "price_abs": 173.934,
+    "price_percent_diff_rollover": -1.796562704668136,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "SOLUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-21 15:34:00",
+    "price_abs": 173.544,
+    "price_percent_diff_rollover": -2.0167573793446114,
+    "price_percent_diff_entry": -0.22491444842436292,
+    "PnL_absdiff_abs_abspct": [
+      -0.6747433452730888,
+      -0.22491444842436292
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "SOLUSDT",
+    "exit_bonus": 0.254121144212874,
+    "reward_signal": -0.9997079330421149
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-21 15:36:00",
+    "price_abs": 173.102,
+    "price_percent_diff_rollover": -2.2663113439779634,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "SOLUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-21 15:38:00",
+    "price_abs": 172.846,
+    "price_percent_diff_rollover": -2.4108493868425267,
+    "price_percent_diff_entry": -0.14858394316914472,
+    "PnL_absdiff_abs_abspct": [
+      -0.44575182950743414,
+      -0.14858394316914472
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "SOLUSDT",
+    "exit_bonus": 0.20912671270382419,
+    "reward_signal": -0.9993945723046532
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-21 15:40:00",
+    "price_abs": 172.484,
+    "price_percent_diff_rollover": -2.6152352130806955,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "SOLUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-21 15:42:00",
+    "price_abs": 171.094,
+    "price_percent_diff_rollover": -3.400031617696887,
+    "price_percent_diff_entry": -0.8065732178212851,
+    "PnL_absdiff_abs_abspct": [
+      -2.4197196534638556,
+      -0.8065732178212851
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "SOLUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -1.008065732178213
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-21 15:44:00",
+    "price_abs": 172.306,
+    "price_percent_diff_rollover": -2.7157343210099603,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "SOLUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-21 16:26:00",
+    "price_abs": 174.504,
+    "price_percent_diff_rollover": -1.4747397186025109,
+    "price_percent_diff_entry": 1.2749498652628193,
+    "PnL_absdiff_abs_abspct": [
+      3.8248495957884576,
+      1.2749498652628193
+    ],
+    "held_for_candles": 21,
+    "position": 1,
+    "asset": "SOLUSDT",
+    "exit_bonus": 0.3128177028998187,
+    "reward_signal": 0.01587767568162638
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-21 16:28:00",
+    "price_abs": 173.965,
+    "price_percent_diff_rollover": -1.779060051040002,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "SOLUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-21 17:14:00",
+    "price_abs": 173.7,
+    "price_percent_diff_rollover": -1.9286795094740312,
+    "price_percent_diff_entry": -0.15302033785110483,
+    "PnL_absdiff_abs_abspct": [
+      -0.4590610135533145,
+      -0.15302033785110483
+    ],
+    "held_for_candles": 23,
+    "position": 1,
+    "asset": "SOLUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -0.0015302033785110484
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-21 17:16:00",
+    "price_abs": 173.884,
+    "price_percent_diff_rollover": -1.8247927911651276,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "SOLUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-21 17:18:00",
+    "price_abs": 173.679,
+    "price_percent_diff_rollover": -1.9405361458027575,
+    "price_percent_diff_entry": -0.11858561823175948,
+    "PnL_absdiff_abs_abspct": [
+      -0.3557568546952784,
+      -0.11858561823175948
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "SOLUSDT",
+    "exit_bonus": 0.1535517067722265,
+    "reward_signal": -0.9996503391145953
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-21 17:20:00",
+    "price_abs": 173.412,
+    "price_percent_diff_rollover": -2.091284807696655,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "SOLUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-21 17:32:00",
+    "price_abs": 172.734,
+    "price_percent_diff_rollover": -2.47408478059577,
+    "price_percent_diff_entry": -0.39167111280207795,
+    "PnL_absdiff_abs_abspct": [
+      -1.1750133384062338,
+      -0.39167111280207795
+    ],
+    "held_for_candles": 6,
+    "position": 1,
+    "asset": "SOLUSDT",
+    "exit_bonus": 0.07208317326775776,
+    "reward_signal": -0.0031958793953432017
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-21 17:34:00",
+    "price_abs": 172.609,
+    "price_percent_diff_rollover": -2.544659996838233,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "SOLUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-21 17:36:00",
+    "price_abs": 171.635,
+    "price_percent_diff_rollover": -3.0945820817995116,
+    "price_percent_diff_entry": -0.5649802790120353,
+    "PnL_absdiff_abs_abspct": [
+      -1.6949408370361059,
+      -0.5649802790120353
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "SOLUSDT",
+    "exit_bonus": 0.41191653970489317,
+    "reward_signal": -1.0015306373930715
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-21 17:38:00",
+    "price_abs": 170.924,
+    "price_percent_diff_rollover": -3.4960139117866293,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "SOLUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-21 17:44:00",
+    "price_abs": 170.806,
+    "price_percent_diff_rollover": -3.5626369159195113,
+    "price_percent_diff_entry": -0.06973908228843549,
+    "PnL_absdiff_abs_abspct": [
+      -0.2092172468653065,
+      -0.06973908228843549
+    ],
+    "held_for_candles": 3,
+    "position": 1,
+    "asset": "SOLUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -0.0006973908228843549
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-21 17:46:00",
+    "price_abs": 171.235,
+    "price_percent_diff_rollover": -3.3204227737753786,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "SOLUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-21 18:00:00",
+    "price_abs": 171.124,
+    "price_percent_diff_rollover": -3.3830935657986956,
+    "price_percent_diff_entry": -0.06552444207255842,
+    "PnL_absdiff_abs_abspct": [
+      -0.19657332621767526,
+      -0.06552444207255842
+    ],
+    "held_for_candles": 7,
+    "position": 1,
+    "asset": "SOLUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -0.0006552444207255842
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-21 18:02:00",
+    "price_abs": 171.244,
+    "price_percent_diff_rollover": -3.315341358205929,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "SOLUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-21 18:30:00",
+    "price_abs": 171.006,
+    "price_percent_diff_rollover": -3.4497165699315775,
+    "price_percent_diff_entry": -0.13968470143002823,
+    "PnL_absdiff_abs_abspct": [
+      -0.41905410429008466,
+      -0.13968470143002823
+    ],
+    "held_for_candles": 14,
+    "position": 1,
+    "asset": "SOLUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -0.0013968470143002822
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-21 18:32:00",
+    "price_abs": 171.146,
+    "price_percent_diff_rollover": -3.370672327740027,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "SOLUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-21 19:04:00",
+    "price_abs": 171.145,
+    "price_percent_diff_rollover": -3.3712369294699536,
+    "price_percent_diff_entry": -0.0012854562838598071,
+    "PnL_absdiff_abs_abspct": [
+      -0.0038563688515794213,
+      -0.0012854562838598071
+    ],
+    "held_for_candles": 16,
+    "position": 1,
+    "asset": "SOLUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -1.2854562838598071e-05
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-21 19:06:00",
+    "price_abs": 171.201,
+    "price_percent_diff_rollover": -3.3396192325933396,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "SOLUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-21 19:10:00",
+    "price_abs": 170.965,
+    "price_percent_diff_rollover": -3.4728652408591034,
+    "price_percent_diff_entry": -0.13855156014239775,
+    "PnL_absdiff_abs_abspct": [
+      -0.4156546804271933,
+      -0.13855156014239775
+    ],
+    "held_for_candles": 2,
+    "position": 1,
+    "asset": "SOLUSDT",
+    "exit_bonus": 0.04614491476194327,
+    "reward_signal": -0.0009240664538045448
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-21 19:12:00",
+    "price_abs": 170.886,
+    "price_percent_diff_rollover": -3.517468777524344,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "SOLUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-21 19:14:00",
+    "price_abs": 170.124,
+    "price_percent_diff_rollover": -3.947695295738397,
+    "price_percent_diff_entry": -0.446616677143249,
+    "PnL_absdiff_abs_abspct": [
+      -1.3398500314297468,
+      -0.446616677143249
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "SOLUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -1.0044661667714325
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-21 19:16:00",
+    "price_abs": 170.126,
+    "price_percent_diff_rollover": -3.9465660922785117,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "SOLUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-21 19:18:00",
+    "price_abs": 169.645,
+    "price_percent_diff_rollover": -4.218139524379504,
+    "price_percent_diff_entry": -0.2834389819305233,
+    "PnL_absdiff_abs_abspct": [
+      -0.8503169457915699,
+      -0.2834389819305233
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "SOLUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -1.0028343898193053
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-21 19:20:00",
+    "price_abs": 169.674,
+    "price_percent_diff_rollover": -4.201766074211255,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "SOLUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-21 19:22:00",
+    "price_abs": 169.534,
+    "price_percent_diff_rollover": -4.280810316402821,
+    "price_percent_diff_entry": -0.08321899109567894,
+    "PnL_absdiff_abs_abspct": [
+      -0.24965697328703682,
+      -0.08321899109567894
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "SOLUSDT",
+    "exit_bonus": 0.01650235061751039,
+    "reward_signal": -1.0006671664047817
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-21 19:24:00",
+    "price_abs": 169.506,
+    "price_percent_diff_rollover": -4.296619164841128,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "SOLUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-21 19:26:00",
+    "price_abs": 169.3,
+    "price_percent_diff_rollover": -4.412927121208701,
+    "price_percent_diff_entry": -0.12223842231539633,
+    "PnL_absdiff_abs_abspct": [
+      -0.366715266946189,
+      -0.12223842231539633
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "SOLUSDT",
+    "exit_bonus": 0.10796154713657968,
+    "reward_signal": -1.000142768751788
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-21 19:28:00",
+    "price_abs": 169.117,
+    "price_percent_diff_rollover": -4.516249237787678,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "SOLUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-21 19:38:00",
+    "price_abs": 168.916,
+    "price_percent_diff_rollover": -4.629734185505554,
+    "price_percent_diff_entry": -0.11956304092945595,
+    "PnL_absdiff_abs_abspct": [
+      -0.35868912278836784,
+      -0.11956304092945595
+    ],
+    "held_for_candles": 5,
+    "position": 1,
+    "asset": "SOLUSDT",
+    "exit_bonus": 0.09579235283471159,
+    "reward_signal": -0.00023770688094744365
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-21 19:40:00",
+    "price_abs": 168.754,
+    "price_percent_diff_rollover": -4.721199665755789,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "SOLUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-21 19:44:00",
+    "price_abs": 168.741,
+    "price_percent_diff_rollover": -4.728539488244992,
+    "price_percent_diff_entry": -0.008414670140768151,
+    "PnL_absdiff_abs_abspct": [
+      -0.025244010422304456,
+      -0.008414670140768151
+    ],
+    "held_for_candles": 2,
+    "position": 1,
+    "asset": "SOLUSDT",
+    "exit_bonus": 0.17658966491870304,
+    "reward_signal": 0.0016817499477793487
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-21 19:46:00",
+    "price_abs": 168.443,
+    "price_percent_diff_rollover": -4.896790803767023,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "SOLUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-21 19:56:00",
+    "price_abs": 168.254,
+    "price_percent_diff_rollover": -5.003500530725638,
+    "price_percent_diff_entry": -0.11291733581213301,
+    "PnL_absdiff_abs_abspct": [
+      -0.33875200743639905,
+      -0.11291733581213301
+    ],
+    "held_for_candles": 5,
+    "position": 1,
+    "asset": "SOLUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -0.0011291733581213301
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-21 19:58:00",
+    "price_abs": 168.375,
+    "price_percent_diff_rollover": -4.93518372140293,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "SOLUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-21 21:16:00",
+    "price_abs": 168.285,
+    "price_percent_diff_rollover": -4.985997877097505,
+    "price_percent_diff_entry": -0.0541651918446515,
+    "PnL_absdiff_abs_abspct": [
+      -0.1624955755339545,
+      -0.0541651918446515
+    ],
+    "held_for_candles": 39,
+    "position": 1,
+    "asset": "SOLUSDT",
+    "exit_bonus": 0.03444716492825384,
+    "reward_signal": -0.00019718026916397665
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-21 21:18:00",
+    "price_abs": 168.227,
+    "price_percent_diff_rollover": -5.018744777434003,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "SOLUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-21 21:26:00",
+    "price_abs": 167.799,
+    "price_percent_diff_rollover": -5.260394317848194,
+    "price_percent_diff_entry": -0.2551332787274866,
+    "PnL_absdiff_abs_abspct": [
+      -0.7653998361824598,
+      -0.2551332787274866
+    ],
+    "held_for_candles": 4,
+    "position": 1,
+    "asset": "SOLUSDT",
+    "exit_bonus": 0.23718122983261986,
+    "reward_signal": -0.00017952048894866735
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-21 21:28:00",
+    "price_abs": 167.4,
+    "price_percent_diff_rollover": -5.485670408094134,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "SOLUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-21 21:40:00",
+    "price_abs": 167.247,
+    "price_percent_diff_rollover": -5.572054472774904,
+    "price_percent_diff_entry": -0.09211535112158314,
+    "PnL_absdiff_abs_abspct": [
+      -0.27634605336474943,
+      -0.09211535112158314
+    ],
+    "held_for_candles": 6,
+    "position": 1,
+    "asset": "SOLUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -0.0009211535112158315
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-21 21:42:00",
+    "price_abs": 167.265,
+    "price_percent_diff_rollover": -5.561891641636005,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "SOLUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-21 23:06:00",
+    "price_abs": 168.034,
+    "price_percent_diff_rollover": -5.127712911312372,
+    "price_percent_diff_entry": 0.45903535811181284,
+    "PnL_absdiff_abs_abspct": [
+      1.3771060743354386,
+      0.45903535811181284
+    ],
+    "held_for_candles": 42,
+    "position": 1,
+    "asset": "SOLUSDT",
+    "exit_bonus": 0.011957159113679616,
+    "reward_signal": 0.004709925172254925
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-21 23:08:00",
+    "price_abs": 168.014,
+    "price_percent_diff_rollover": -5.139004945911156,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "SOLUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-22 02:04:00",
+    "price_abs": 171.374,
+    "price_percent_diff_rollover": -3.241943133313771,
+    "price_percent_diff_entry": 1.9991331243167647,
+    "PnL_absdiff_abs_abspct": [
+      5.997399372950294,
+      1.9991331243167647
+    ],
+    "held_for_candles": 88,
+    "position": 1,
+    "asset": "SOLUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": 0.019991331243167647
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-22 02:06:00",
+    "price_abs": 171.499,
+    "price_percent_diff_rollover": -3.1713679170713083,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "SOLUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-22 02:08:00",
+    "price_abs": 171.125,
+    "price_percent_diff_rollover": -3.382528964068753,
+    "price_percent_diff_entry": -0.21877831511802467,
+    "PnL_absdiff_abs_abspct": [
+      -0.656334945354074,
+      -0.21877831511802467
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "SOLUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -1.0021877831511803
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-22 02:10:00",
+    "price_abs": 171.156,
+    "price_percent_diff_rollover": -3.3650263104406193,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "SOLUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-22 02:12:00",
+    "price_abs": 171.155,
+    "price_percent_diff_rollover": -3.3655909121705614,
+    "price_percent_diff_entry": -0.0012853811792712282,
+    "PnL_absdiff_abs_abspct": [
+      -0.003856143537813685,
+      -0.0012853811792712282
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "SOLUSDT",
+    "exit_bonus": 0.05258397680633856,
+    "reward_signal": -0.9994870140437293
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-22 02:14:00",
+    "price_abs": 171.065,
+    "price_percent_diff_rollover": -3.4164050678651368,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "SOLUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-22 02:16:00",
+    "price_abs": 171.053,
+    "price_percent_diff_rollover": -3.423180288624413,
+    "price_percent_diff_entry": -0.007716414336325092,
+    "PnL_absdiff_abs_abspct": [
+      -0.02314924300897528,
+      -0.007716414336325092
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "SOLUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -1.0000771641433632
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-22 02:18:00",
+    "price_abs": 171.225,
+    "price_percent_diff_rollover": -3.3260687910747864,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "SOLUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-22 02:20:00",
+    "price_abs": 171.031,
+    "price_percent_diff_rollover": -3.4356015266830817,
+    "price_percent_diff_entry": -0.11400283904613098,
+    "PnL_absdiff_abs_abspct": [
+      -0.3420085171383929,
+      -0.11400283904613098
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "SOLUSDT",
+    "exit_bonus": 0.1606085179000102,
+    "reward_signal": -0.9995339432114612
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-22 02:22:00",
+    "price_abs": 170.756,
+    "price_percent_diff_rollover": -3.590867002416503,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "SOLUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-22 02:24:00",
+    "price_abs": 170.751,
+    "price_percent_diff_rollover": -3.5936900110661987,
+    "price_percent_diff_entry": -0.0036309325229461347,
+    "PnL_absdiff_abs_abspct": [
+      -0.010892797568838403,
+      -0.0036309325229461347
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "SOLUSDT",
+    "exit_bonus": 0.09135907222465615,
+    "reward_signal": -0.9991227186029829
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-22 02:26:00",
+    "price_abs": 170.595,
+    "price_percent_diff_rollover": -3.6817678809367953,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "SOLUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-22 02:28:00",
+    "price_abs": 170.456,
+    "price_percent_diff_rollover": -3.7602475213984197,
+    "price_percent_diff_entry": -0.08218352152856749,
+    "PnL_absdiff_abs_abspct": [
+      -0.2465505645857025,
+      -0.08218352152856749
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "SOLUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -1.0008218352152858
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-22 02:30:00",
+    "price_abs": 170.627,
+    "price_percent_diff_rollover": -3.663700625578719,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "SOLUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-22 03:00:00",
+    "price_abs": 170.606,
+    "price_percent_diff_rollover": -3.675557261907461,
+    "price_percent_diff_entry": -0.01301092307124362,
+    "PnL_absdiff_abs_abspct": [
+      -0.039032769213730854,
+      -0.01301092307124362
+    ],
+    "held_for_candles": 15,
+    "position": 1,
+    "asset": "SOLUSDT",
+    "exit_bonus": 0.02402919144601094,
+    "reward_signal": 0.0001101826837476732
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-22 03:02:00",
+    "price_abs": 170.565,
+    "price_percent_diff_rollover": -3.698705932834987,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "SOLUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-22 03:04:00",
+    "price_abs": 170.535,
+    "price_percent_diff_rollover": -3.7156439847331786,
+    "price_percent_diff_entry": -0.01829227045429119,
+    "PnL_absdiff_abs_abspct": [
+      -0.05487681136287357,
+      -0.01829227045429119
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "SOLUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -1.000182922704543
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-22 03:06:00",
+    "price_abs": 170.669,
+    "price_percent_diff_rollover": -3.6399873529212505,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "SOLUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-22 03:38:00",
+    "price_abs": 170.634,
+    "price_percent_diff_rollover": -3.659748413469154,
+    "price_percent_diff_entry": -0.0212107917318833,
+    "PnL_absdiff_abs_abspct": [
+      -0.06363237519564989,
+      -0.0212107917318833
+    ],
+    "held_for_candles": 16,
+    "position": 1,
+    "asset": "SOLUSDT",
+    "exit_bonus": 0.2660138642476831,
+    "reward_signal": 0.002448030725157998
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-22 03:40:00",
+    "price_abs": 170.18,
+    "price_percent_diff_rollover": -3.916077598861767,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "SOLUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-22 03:42:00",
+    "price_abs": 170.171,
+    "price_percent_diff_rollover": -3.9211590144312325,
+    "price_percent_diff_entry": -0.005993691071563883,
+    "PnL_absdiff_abs_abspct": [
+      -0.01798107321469165,
+      -0.005993691071563883
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "SOLUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -1.0000599369107157
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-22 03:44:00",
+    "price_abs": 170.177,
+    "price_percent_diff_rollover": -3.917771404051594,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "SOLUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-22 03:46:00",
+    "price_abs": 169.916,
+    "price_percent_diff_rollover": -4.065132455565853,
+    "price_percent_diff_entry": -0.1540759581281407,
+    "PnL_absdiff_abs_abspct": [
+      -0.4622278743844221,
+      -0.1540759581281407
+    ],
+    "held_for_candles": 1,
+    "position": 1,
+    "asset": "SOLUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": -1.0015407595812813
+  },
+  {
+    "type": "open",
+    "timestamp": "2025-02-22 03:48:00",
+    "price_abs": 170.037,
+    "price_percent_diff_rollover": -3.9968156462431437,
+    "price_percent_diff_entry": null,
+    "PnL_absdiff_abs_abspct": null,
+    "held_for_candles": null,
+    "position": 1,
+    "asset": "SOLUSDT"
+  },
+  {
+    "type": "close",
+    "timestamp": "2025-02-22 04:36:00",
+    "price_abs": 171.064,
+    "price_percent_diff_rollover": -3.416969669595079,
+    "price_percent_diff_entry": 0.6032846994014106,
+    "PnL_absdiff_abs_abspct": [
+      1.8098540982042317,
+      0.6032846994014106
+    ],
+    "held_for_candles": 24,
+    "position": 1,
+    "asset": "SOLUSDT",
+    "exit_bonus": 0.0,
+    "reward_signal": 0.006032846994014106
+  }
+]
