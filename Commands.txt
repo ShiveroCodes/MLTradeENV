@@ -1,0 +1,13 @@
+run Sim
+
+python simulate_trades_multi_tf.py --commission 0.12 --leverage 1 --margin 300 --window 60
+
+sim training
+
+
+python refine_model_online.py --commission 0.12 --leverage 1 --margin 300 --window 60 --target_tf 1 --iterations 100 --epochs 3 --batch_size 32 --max_time 30 --max_horizon 360
+python refine_model_online_ui_v0.1 --commission 0.12 --leverage 1 --margin 300 --window 60 --target_tf 1 --iterations 100 --epochs 3 --batch_size 32 --max_time 30 --max_horizon 360 --min_distance 5 --rr_threshold 0.5
+
+python refine_model_online_torch_moreGPUv2.4.py
+
+python refine_model_online_torch_Frameworkedv1_0PPOExp.py

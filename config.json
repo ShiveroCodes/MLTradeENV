@@ -1,0 +1,23 @@
+{
+  "iterations": 1000,
+  "batch_episodes": 10,
+  "max_time": 30,
+  "target_timeframes": [2],
+  "target_assets": ["ETHUSDT.P", "BTCUSDT.P", "ADAUSDT.P", "ETCUSDT.P", "SOLUSDT.P"],
+  "window_size": 30,
+  "episode_length": 500,
+  "trade_cost": 0.0012,
+  "starting_capital": 300.0,
+  "calibration_iterations": 30,
+  "model_hidden_size": 512,
+  "model_lstm_layers": 3,
+  "ppo_epochs": 4,
+  "learning_rate": 0.0002,
+  "diskwrite_cycle": 10,
+  "extreme_move_threshold": 5000.0,
+  "trade_open_reward": 0.005,
+  "adaptive_strategy_selection": true,
+  "risk_adjustment_factor": 0.75,
+  "fail_safe_threshold": 0.1,
+  "debug_mode": true
+}
